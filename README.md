@@ -24,7 +24,7 @@ npm install
 
 ### 2. Configure environment
 
-Edit `.env`:
+Add `.env` file:
 
 ```env
 MONGODB_URI=mongodb://localhost:27017/graphql_db
